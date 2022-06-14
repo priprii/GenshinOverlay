@@ -1,13 +1,10 @@
-2020/12/04 Update: There are a number of known issues which are yet to be addressed like implementation of an option for setting skill binding for custom key & controller support and also better support for characters like Childe and adding localization.
-
-I'm not able to implement these changes as I don't currently have a PC and won't be able to afford a new one until later next year.
-So this project is on-hold.
-
 # GenshinOverlay
 
 An application for displaying an overlay over the Genshin Impact window which visually displays cooldown timers for skills.
 
 The majority of what is explained below can also simply be found in GenshinOverlay as tooltips when you hover over things.
+
+Feel free to support me with a donation [here](https://streamlabs.com/primpri) if this project was useful to you!
 
 # Getting Started
 
