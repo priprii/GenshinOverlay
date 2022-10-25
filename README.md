@@ -4,8 +4,6 @@ An application for displaying an overlay over the Genshin Impact window which vi
 
 The majority of what is explained below can also simply be found in GenshinOverlay as tooltips when you hover over things.
 
-Feel free to support me with a donation [here](https://streamlabs.com/primpri) if this project was useful to you!
-
 # Getting Started
 
 - Start GenshinOverlay as Administrator
